@@ -1,0 +1,7 @@
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\obj\x86\Debug\usuario.csprojResolveAssemblyReference.cache
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\obj\x86\Debug\usuario.MainForm.resources
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\obj\x86\Debug\usuario.csproj.GenerateResource.Cache
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\bin\Debug\usuario.exe
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\bin\Debug\usuario.pdb
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\obj\x86\Debug\usuario.exe
+C:\Users\lizbeth\Documents\SharpDevelop Projects\usuario\obj\x86\Debug\usuario.pdb
